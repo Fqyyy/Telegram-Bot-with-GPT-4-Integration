@@ -1,0 +1,1 @@
+This code is a Telegram bot that uses the Telethon and aiogram libraries to interact with the Telegram API. The bot is able to process private messages, respond to them using the GPT model (via the g4f library), and also provides the administrator with the ability to manage the bot's functions through commands.
